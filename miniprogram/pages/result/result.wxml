@@ -1,0 +1,15 @@
+<!--pages/result/result.wxml-->
+<view class="titleContainer">
+  <text class="big-title">运行结果</text>  
+</view>
+<view class="table">
+  <view class="tr">
+    <view class="th">state</view>
+    <view class="td">{{resultArray[0]}}</view>
+  </view>
+  <view class="tr">
+    <view class="th">precision</view>
+    <view class="td">{{resultArray[1]}}</view>
+  </view>  
+</view>
+<view class="return" bindtap="returnTap">返回</view>

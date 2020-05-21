@@ -1,0 +1,6 @@
+<view class="titleContainer">
+  <text class="big-title">time_fre_RF运算</text>
+</view>
+<form bindsubmit='formsubmit'>
+  <button class="kjdf" form-type='submit'>进行time_fre_RF</button>
+</form>

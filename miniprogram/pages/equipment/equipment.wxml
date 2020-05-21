@@ -1,0 +1,5 @@
+<navigator class="yangshi" url="../equipment-all/equipment-all" open-type="navigate">100-3和108-3设备情况</navigator>
+<navigator class="yangshi" url="../equipment-normal/equipment-normal" open-type="navigate">正常设备</navigator>
+<navigator class="yangshi" url="../equipment-fault/equipment-fault" open-type="navigate">故障设备</navigator>
+<navigator class="yangshi" url="../index/index" open-type="switchTab">返回首页</navigator>
+

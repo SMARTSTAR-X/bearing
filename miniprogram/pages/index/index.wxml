@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+    <image src="bearing.jpg" style="width:100%"></image>
+    <view class="content" >
+        轴承在线监控        
+    </view>
+</view>

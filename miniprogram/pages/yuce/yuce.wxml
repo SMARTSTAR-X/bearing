@@ -1,0 +1,7 @@
+<!--pages/yuce/yuce.wxml-->
+<view class="circleContainer">
+<view class="circle">
+<button class="innerCircle" bindtap="navToPre">点击进入轴承预测实验</button>
+</view>
+</view>
+

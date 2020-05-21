@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",     
+    "pages/equipment/equipment",
+    "pages/reportforms/reportforms",
+    "pages/yuce/yuce",
+    "pages/time_fre_RF/time_fre_RF",
+    "pages/result/result",    
+    "pages/equipment-all/equipment-all"
+    
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "首页 ",
+    "navigationBarTextStyle": "black"
+  },
+    "sitemapLocation": "sitemap.json",
+    "style": "v2",
+    "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#191970",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+        
+      },
+      {
+        "pagePath": "pages/equipment/equipment",
+        "text": "设备"
+        
+      },
+      {
+        "pagePath": "pages/reportforms/reportforms",
+        "text": "报表"
+       
+      },
+      {
+        "pagePath": "pages/yuce/yuce",
+        "text": "预测"
+      }
+    ]
+  }
+}

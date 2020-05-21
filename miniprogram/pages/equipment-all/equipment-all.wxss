@@ -1,0 +1,18 @@
+/* pages/equipment-all/equipment-all.wxss */
+.echartContainer{
+  top: 100px;
+}
+ec-canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.title2 {
+  height: 40px;
+  line-height: 40px;
+  font-size: 22px;
+  font-weight: bold;
+  text-indent: 1em;
+  color: #237ab7;
+  width: 100%;
+}

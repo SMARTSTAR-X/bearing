@@ -1,0 +1,10 @@
+/* pages/time_fre_RF/time_fre_RF.wxss */
+.titleContainer{
+  position: relative;
+  box-sizing: border-box;
+}
+.kjdf{
+  width: 50%;
+  border:1px;
+  margin-top: 150px
+}
